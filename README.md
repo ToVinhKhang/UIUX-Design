@@ -5,7 +5,6 @@ index.html
 `
 
 Copyright by ToVinhKhang
-
 <br/>
 
 ``
