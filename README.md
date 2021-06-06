@@ -1,8 +1,5 @@
 # UIUX Design
-## Introduction:
-• UI_Fashion:
-+ Advanced
-+ Basic
+Introduction
 <br>
 
 • UI_Fashion:
@@ -10,7 +7,12 @@
 + Basic
 <br>
 
-Run each project:
+• UI_Fashion:
++ Advanced
++ Basic
+<br>
+
+In each project run file 
 `
 index.html
 `
