@@ -13,5 +13,3 @@ In each project run file
 `
 index.html
 `
-
-Copyright by ToVinhKhang
