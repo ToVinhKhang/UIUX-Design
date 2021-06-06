@@ -1,13 +1,10 @@
 # UIUX Design
-Introduction
-<br>
-
-• UI_Fashion:
+UI_Fashion:
 + Advanced
 + Basic
 <br>
 
-• UI_Fashion:
+UI_Fashion:
 + Advanced
 + Basic
 <br>
